@@ -9,6 +9,10 @@ function App() {
     <div className="App">
       <Header />
       <Sidebar />
+      <div id="page-wrap">
+        <h1>AppDividend</h1>
+        <h2>Check out our tutorials the side menubar</h2>
+      </div>
       <Footer />
     </div>
   );
